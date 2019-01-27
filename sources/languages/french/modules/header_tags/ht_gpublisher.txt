@@ -1,0 +1,3 @@
+module_header_tags_gpublisher_title = Souhaitez vous intaller Google+ Publisher (avec compte business)
+module_header_tags_gpublisher_description = Ajouter Google + Publisher.<br /><br /><strong>Note :</strong><br /><br />vous devez avoir un  compte Business.
+

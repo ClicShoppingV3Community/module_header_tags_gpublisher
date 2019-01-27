@@ -1,0 +1,4 @@
+
+ module_header_tags_gpublisher_title = Do  you want use Google Publisher ?
+ module_header_tags_gpublisher_description = Add the G+ Publisher Link to your store, you must have a G+ Business Account.
+
